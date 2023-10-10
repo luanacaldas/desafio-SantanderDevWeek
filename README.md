@@ -1,6 +1,8 @@
 # Explorando IA Generativa em um Pipeline de ETL com Python
 
-Uso do GPT da OpenAI para gerar mensagens de marketing personalizadas para um sistema bancário. 
+Explorando IA Generativa em um Pipeline de ETL com Python Fomos desafiado a Explorar a IA Generativa em um Pipeline de ETL com Python.
+
+Importamos dados de uma planilha, fomos ensinados a extrair os dados de uma API santander previamente fornecida, tratar esses dados e enviar uma mensagem personalizada pela Open IA.. 
 
 <img width="300"  src="https://media.giphy.com/media/iiSb58oATiANL65Dd2/giphy.gif">
 
